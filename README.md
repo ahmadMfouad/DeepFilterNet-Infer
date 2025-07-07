@@ -1,6 +1,6 @@
 # DeepFilterNet Inference-Only
 
-[![Rust CI](https://github.com/YOUR_USERNAME/DeepFilterNet-Infer/workflows/CI/badge.svg)](https://github.com/YOUR_USERNAME/DeepFilterNet-Infer/actions)
+Rust CI
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
